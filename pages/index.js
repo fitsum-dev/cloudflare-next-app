@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Test fitsum.dev integrate to cloud flare
         </h1>
 
         <p className={styles.description}>
